@@ -3,14 +3,16 @@
 ### About Me 
 - 😄 Pronouns: He/His
 - 💼 I’m currently working as a <strong>Project Engineer </strong> at [Wipro](https://www.wipro.com/).
+- 🏆 I have done Full Stack Data Science Bootcamp from iNeuron.
 - 🌱 I’m currently learning Data Analytics, Data Science, Machine-learning, Deep Learning, NLP etc.
-- 🎒 I've done almost 2-3 internships in Data Analysis, DS.
+- 🎒 I've done almost 4 month internships in Data Analysis, DS.
 - 🧭 I love exploring and working both in Data Analysis and Data Science, ML.
 - 🎭 I love speaking at events and connecting with people. 
 - 🤔 Your support is appreciated as I’m looking for help to switch my career in the Data Domain (Data Analytics, Data Scientist, Machine Learning Engineer).
 - 📫 How to reach me: Check social links below.
-- 📫 How to reach me Email:- harshalpaatil20@gmail.com
-- Phone Contact me:- 9730942181
+- 📧 How to reach me Email:- harshalpaatil20@gmail.com
+- 📲  Phone Contact me:- 9730942181
+- 🎃 Data Science [Resume](https://bit.ly/Harshal-Resume)
 
 
 ### :hammer_and_wrench: Languages and Tools 

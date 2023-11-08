@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Harshal</h1>
 
-### About Me 
-- 😄 Pronouns: He/His
+### About Me👨‍🔬 
+- 😄 Pronouns: He/His 👨‍🔬
 - 💼 I’m currently working as a <strong>Project Engineer </strong> at [Wipro](https://www.wipro.com/).
 - 🏆 I have done Full Stack Data Science Bootcamp from iNeuron.
 - 🌱 I’m currently learning Data Analytics, Data Science, Machine-learning, Deep Learning, NLP etc.
